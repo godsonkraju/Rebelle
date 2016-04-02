@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{BF9B0359-D851-4CB0-B7AB-34FF603457A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{5E927659-E5A9-4647-A30E-ED412AE50A8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "McKillasGorilla", "McKillasGorilla\McKillasGorilla.vcxproj", "{6A8E84CB-7249-4DD5-AD55-E152664974FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tinyxml", "Plugins\tinyxml\tinyxml.vcxproj", "{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XMLFileImporter", "Plugins\XMLFileImporter\XMLFileImporter.vcxproj", "{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rebelle", "Games\Rebelle\Rebelle.vcxproj", "{BA25DE62-784B-4A2C-9FC0-115872D53819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Debug|ARM.ActiveCfg = Debug|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Debug|x64.ActiveCfg = Debug|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Debug|x86.Build.0 = Debug|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Release|ARM.ActiveCfg = Release|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Release|x64.ActiveCfg = Release|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Release|x86.ActiveCfg = Release|Win32
+		{6A8E84CB-7249-4DD5-AD55-E152664974FD}.Release|x86.Build.0 = Release|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Debug|ARM.ActiveCfg = Debug|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Debug|x64.ActiveCfg = Debug|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Debug|x86.Build.0 = Debug|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Release|ARM.ActiveCfg = Release|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Release|x64.ActiveCfg = Release|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Release|x86.ActiveCfg = Release|Win32
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8}.Release|x86.Build.0 = Release|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Debug|ARM.ActiveCfg = Debug|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Debug|x64.ActiveCfg = Debug|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Debug|x86.Build.0 = Debug|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Release|ARM.ActiveCfg = Release|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Release|x64.ActiveCfg = Release|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Release|x86.ActiveCfg = Release|Win32
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E}.Release|x86.Build.0 = Release|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Debug|ARM.ActiveCfg = Debug|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Debug|x64.ActiveCfg = Debug|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Debug|x86.Build.0 = Debug|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Release|ARM.ActiveCfg = Release|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Release|x64.ActiveCfg = Release|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Release|x86.ActiveCfg = Release|Win32
+		{BA25DE62-784B-4A2C-9FC0-115872D53819}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2AEC47B4-9FE4-41EE-B16D-5837AD405AF8} = {5E927659-E5A9-4647-A30E-ED412AE50A8A}
+		{63AEE7BB-3881-480C-AC34-DA38C98F0F1E} = {5E927659-E5A9-4647-A30E-ED412AE50A8A}
+		{BA25DE62-784B-4A2C-9FC0-115872D53819} = {BF9B0359-D851-4CB0-B7AB-34FF603457A7}
+	EndGlobalSection
+EndGlobal
