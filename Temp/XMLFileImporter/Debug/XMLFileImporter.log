@@ -1,1 +1,6 @@
-﻿  XMLFileImporter.vcxproj -> C:\group_project\team_lawless\Common\XMLFileImporter.lib
+﻿  stdafx.cpp
+  XMLFileImporter.cpp
+c:\group_project\rebelle\plugins\xmlfileimporter\src\xmlfi\xmlfileimporter.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\group_project\rebelle\plugins\xmlfileimporter\src\xmlfi\xmlfileimporter.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  XMLFileImporter.vcxproj -> C:\group_project\Rebelle\Common\XMLFileImporter.lib

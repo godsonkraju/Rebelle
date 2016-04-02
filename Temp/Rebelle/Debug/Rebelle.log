@@ -1,2 +1,10 @@
-﻿  RebelleApp.cpp
-  Rebelle.vcxproj -> C:\group_project\team_lawless\Apps\Rebelle\Rebelle.exe
+﻿  stdafx.cpp
+  RebelleTextGenerator.cpp
+  RebelleStateMachine.cpp
+  RebelleMouseEventHandler.cpp
+  RebelleKeyEventHandler.cpp
+c:\group_project\rebelle\games\rebelle\src\rebelle\rebellekeyeventhandler.cpp(108): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+  RebelleButtonEventHandler.cpp
+  RebelleApp.cpp
+  Generating Code...
+  Rebelle.vcxproj -> C:\group_project\Rebelle\Apps\Rebelle\Rebelle.exe
